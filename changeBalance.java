@@ -1,3 +1,3 @@
 Class changeBalance{
-	private changeTest = "v1.7";
+	private changeTest = "v1.6";
 }
