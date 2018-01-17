@@ -1,4 +1,7 @@
 Class changeBalance{
+<<<<<<< HEAD
 	private changeTest = "v1.5";
-	private changeTest = "master";
+=======
+	private changeTest = "v1.6";
+>>>>>>> v1.6
 }
